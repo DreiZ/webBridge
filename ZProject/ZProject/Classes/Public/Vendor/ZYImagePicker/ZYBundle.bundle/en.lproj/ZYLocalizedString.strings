@@ -1,0 +1,16 @@
+/* 
+  ZYLocalizedString.strings
+  ZYBundle
+
+  Created by Daniel on 2017/7/23.
+  Copyright © 2017年 Daniel. All rights reserved.
+*/
+
+"取消" = "Cancel";
+"使用" = "Use";
+"视频不得超过" = "Video must not exceed";
+"秒" = "seconds";
+"确定" = "YES";
+"此视频不能编辑" = "This video cannot be edited";
+"编辑视频" = "Edit video";
+"视频编辑失败" = "Failure of video editing";
